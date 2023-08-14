@@ -24,4 +24,9 @@ It contains the projects completed in the Python 3 learning course on Codecademy
   13. Carly's Clipper\
    *A hairdresser's shop, with haircuts, prices, change of prices, etc.*
 
+**Functions**
+
+  15. Physics Class\
+   *Here, functions help convert temperatures between °C and °F, calculate Force and Work on a train experiment, and... define the energy from a bomb?!?*
+
 *my blog: bourgeonnier.wordpress.com*
