@@ -16,5 +16,12 @@ It contains the projects completed in the Python 3 learning course on Codecademy
 
   9. Gradebook\
    *A gradebook with subjects and grades, playing with List elements*
+  11. Len's Slice\
+   *A pizza parlor with Lists for ingredients, prices and such*
+
+**Loops**
+
+  13. Carly's Clipper\
+   *A hairdresser's shop, with haircuts, prices, change of prices, etc.*
 
 *my blog: bourgeonnier.wordpress.com*
